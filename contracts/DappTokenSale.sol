@@ -36,6 +36,6 @@ contract DappTokenSale {
 
         // UPDATE: Let's not destroy the contract here
         // Just transfer the balance to the admin
-        admin.transfer(address(this).balance);
+        admin.transfer(tokenContract.balanceOf(address(this)));
     }
 }

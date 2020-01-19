@@ -1,0 +1,22 @@
+{
+  "name": "dapptoken5.0",
+  "version": "1.0.0",
+  "description": "refactor of DappToken to support recent solidity updates",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewcollier-com-au/DappToken5.0.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewcollier-com-au/DappToken5.0/issues"
+  },
+  "homepage": "https://github.com/andrewcollier-com-au/DappToken5.0#readme"
+}
