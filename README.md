@@ -1,1 +1,0 @@
-eMoney Eth Token
